@@ -38,8 +38,8 @@ Passionate about creating beautiful, functional, and user-friendly web applicati
 |---------|-----------|------------|------------|
 | E-Sertifikat | [Live Demo](e-sertifikat.kedirikab.go.id) | [GitHub](https://github.com/raihann-a/e-sertifikat) | PHP & MySQL |
 | Visit-Blitar | [Live Demo](https://visit-blitar.my.id/) | [GitHub](https://github.com/raihann-a/visit-blitar) | Laravel, Livewire, & MySQL |
-| Secanting | [ - ] | [GitHub](https://github.com/raihann-a/SECANTING) | PHP & MySQL |
-| TISIMS INVENTORY | - ] | [GitHub](https://github.com/raihann-a/tisims-inventory) | React.js & Express.js |
+| Secanting | - | [GitHub](https://github.com/raihann-a/SECANTING) | PHP & MySQL |
+| TISIMS INVENTORY | - | [GitHub](https://github.com/raihann-a/tisims-inventory) | React.js & Express.js |
 
 ## 📫 Connect With Me
 
